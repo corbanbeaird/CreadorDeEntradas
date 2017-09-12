@@ -1,0 +1,84 @@
+{{Infobox
+|number =<nowiki>#</nowiki>***DEXNUMBER***
+|image = <tabber>
+|-|Normal     = [[File:***POKEMON***.png]]
+|-|Shiny      = [[File:***POKEMON*** Shiny.png]]
+|-|Reflective = [[File:***POKEMON*** Reflective.png]]
+</tabber>
+|type = ***TYPES***
+|height = ***HEIGHT***
+|weight = ***WEIGHT***
+|map= [[File:Location ***LOCATION NUMBER***.png]]
+|cry= [[File:***DEXNUMBER***.ogg]]}}
+== Description ==
+***DESCRIPTION***
+
+== Appearance ==
+***APPEARANCE***
+== Obtaining ==
+{| class="article-table" border="0" cellpadding="1" cellspacing="1" style="width: 650px; height: 150px;"
+|-
+! style="text-align:center;" |MS
+! style="text-align:center;" |Name
+! style="text-align:center;" |Description
+|-
+! style="text-align:center;" |[[File:MS***DEXNUMBER***.png]]
+! style="text-align:center;" |Normal
+! style="text-align:center;" |N/A
+|-
+! style="text-align:center;" |[[File:MS***DEXNUMBER***S.png]]
+! style="text-align:center;" |Shiny
+! style="text-align:center;" |Own a ***POKEMON*** at level 100.
+|-
+! style="text-align:center;" |[[File:MS***DEXNUMBER***REF.png]]
+! style="text-align:center;" |Reflective
+! style="text-align:center;" |Own a ***POKEMON*** Shiny at level 100 before the Massive Update.
+|}
+== Stats ==
+{| class="article-table" border="0" cellpadding="1" cellspacing="1" style="width: 650px; height: 150px;"
+! style="text-align:center;" |Level
+! style="text-align:center;" |5
+! style="text-align:center;" |50
+! style="text-align:center;" |100
+|-
+| style="text-align:center;" |Health
+| style="text-align:center;" |***5HP***
+| style="text-align:center;" |***50HP***
+| style="text-align:center;" |***100HP***
+|-
+| style="text-align:center;" |Attack
+| style="text-align:center;" |***5ATK***
+| style="text-align:center;" |***50ATK***
+| style="text-align:center;" |***100ATK***
+|-
+| style="text-align:center;" |Defense
+| style="text-align:center;" |***5DEF***
+| style="text-align:center;" |***50DEF***
+| style="text-align:center;" |***100DEF***
+|-
+| style="text-align:center;" |Speed
+| style="text-align:center;" |***5SPE***
+| style="text-align:center;" |***50SPE***
+| style="text-align:center;" |***100SPE***
+|-
+| style="text-align:center;" |Special Attack
+| style="text-align:center;" |***5SPATK***
+| style="text-align:center;" |***50SPATK***
+| style="text-align:center;" |***100SPATK***
+|-
+| style="text-align:center;" |Special Defense
+| style="text-align:center;" |***5SPDEF***
+| style="text-align:center;" |***50SPDEF***
+| style="text-align:center;" |***100SPDEF***
+|}
+
+== Moves ==
+{| class="article-table" border="0" cellpadding="1" cellspacing="1" style="width: 650px; height: 150px;"
+|-
+! scope="col" style="text-align:center;" |Level
+! scope="col" style="text-align:center;" |Move
+! scope="col" style="text-align:center;" |Type
+! scope="col" style="text-align:center;" |Category
+! scope="col" style="text-align:center;" |[[File:Heart Scale.png|25px]]
+|-
+***MOVES***

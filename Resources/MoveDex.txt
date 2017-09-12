@@ -1,0 +1,719 @@
+Pound	Normal	Physical
+Karate Chop	Fighting	Physical
+Double Slap	Normal	Physical
+Comet Punch	Normal	Physical
+Mega Punch	Normal	Physical
+Pay Day	Normal	Physical
+Fire Punch	Fire	Physical
+Ice Punch	Ice	Physical
+Thunder Punch	Electric	Physical
+Scratch	Normal	Physical
+Vice Grip	Normal	Physical
+Guillotine	Normal	Physical
+Razor Wind	Normal	Special
+Swords Dance	Normal	Status
+Cut	Normal	Physical
+Gust	Flying	Special
+Wing Attack	Flying	Physical
+Whirlwind	Normal	Status
+Fly	Flying	Physical
+Bind	Normal	Physical
+Slam	Normal	Physical
+Vine Whip	Grass	Physical
+Stomp	Normal	Physical
+Double Kick	Fighting	Physical
+Mega Kick	Normal	Physical
+Jump Kick	Fighting	Physical
+Rolling Kick	Fighting	Physical
+Sand Attack	Ground	Status
+Headbutt	Normal	Physical
+Horn Attack	Normal	Physical
+Fury Attack	Normal	Physical
+Horn Drill	Normal	Physical
+Tackle	Normal	Physical
+Body Slam	Normal	Physical
+Wrap	Normal	Physical
+Take Down	Normal	Physical
+Thrash	Normal	Physical
+Double-Edge	Normal	Physical
+Tail Whip	Normal	Status
+Poison Sting	Poison	Physical
+Twineedle	Bug	Physical
+Pin Missile	Bug	Physical
+Leer	Normal	Status
+Bite	Dark	Physical
+Growl	Normal	Status
+Roar	Normal	Status
+Sing	Normal	Status
+Supersonic	Normal	Status
+Sonic Boom	Normal	Special
+Disable	Normal	Status
+Acid	Poison	Special
+Ember	Fire	Special
+Flamethrower	Fire	Special
+Mist	Ice	Status
+Water Gun	Water	Special
+Hydro Pump	Water	Special
+Surf	Water	Special
+Ice Beam	Ice	Special
+Blizzard	Ice	Special
+Psybeam	Psychic	Special
+Bubble Beam	Water	Special
+Aurora Beam	Ice	Special
+Hyper Beam	Normal	Special
+Peck	Flying	Physical
+Drill Peck	Flying	Physical
+Submission	Fighting	Physical
+Low Kick	Fighting	Physical
+Counter	Fighting	Physical
+Seismic Toss	Fighting	Physical
+Strength	Normal	Physical
+Absorb	Grass	Special
+Mega Drain	Grass	Special
+Leech Seed	Grass	Status
+Growth	Normal	Status
+Razor Leaf	Grass	Physical
+Solar Beam	Grass	Special
+Poison Powder	Poison	Status
+Stun Spore	Grass	Status
+Sleep Powder	Grass	Status
+Petal Dance	Grass	Special
+String Shot	Bug	Status
+Dragon Rage	Dragon	Special
+Fire Spin	Fire	Special
+Thunder Shock	Electric	Special
+Thunderbolt	Electric	Special
+Thunder Wave	Electric	Status
+Thunder	Electric	Special
+Rock Throw	Rock	Physical
+Earthquake	Ground	Physical
+Fissure	Ground	Physical
+Dig	Ground	Physical
+Toxic	Poison	Status
+Confusion	Psychic	Special
+Psychic	Psychic	Special
+Hypnosis	Psychic	Status
+Meditate	Psychic	Status
+Agility	Psychic	Status
+Quick Attack	Normal	Physical
+Rage	Normal	Physical
+Teleport	Psychic	Status
+Night Shade	Ghost	Special
+Mimic	Normal	Status
+Screech	Normal	Status
+Double Team	Normal	Status
+Recover	Normal	Status
+Harden	Normal	Status
+Minimize	Normal	Status
+Smokescreen	Normal	Status
+Confuse Ray	Ghost	Status
+Withdraw	Water	Status
+Defense Curl	Normal	Status
+Barrier	Psychic	Status
+Light Screen	Psychic	Status
+Haze	Ice	Status
+Reflect	Psychic	Status
+Focus Energy	Normal	Status
+Bide	Normal	Physical
+Metronome	Normal	Status
+Mirror Move	Flying	Status
+Self-Destruct	Normal	Physical
+Egg Bomb	Normal	Physical
+Lick	Ghost	Physical
+Smog	Poison	Special
+Sludge	Poison	Special
+Bone Club	Ground	Physical
+Fire Blast	Fire	Special
+Waterfall	Water	Physical
+Clamp	Water	Physical
+Swift	Normal	Special
+Skull Bash	Normal	Physical
+Spike Cannon	Normal	Physical
+Constrict	Normal	Physical
+Amnesia	Psychic	Status
+Kinesis	Psychic	Status
+Soft-Boiled	Normal	Status
+High Jump Kick	Fighting	Physical
+Glare	Normal	Status
+Dream Eater	Psychic	Special
+Poison Gas	Poison	Status
+Barrage	Normal	Physical
+Leech Life	Bug	Physical
+Lovely Kiss	Normal	Status
+Sky Attack	Flying	Physical
+Transform	Normal	Status
+Bubble	Water	Special
+Dizzy Punch	Normal	Physical
+Spore	Grass	Status
+Flash	Normal	Status
+Psywave	Psychic	Special
+Splash	Normal	Status
+Acid Armor	Poison	Status
+Crabhammer	Water	Physical
+Explosion	Normal	Physical
+Fury Swipes	Normal	Physical
+Bonemerang	Ground	Physical
+Rest	Psychic	Status
+Rock Slide	Rock	Physical
+Hyper Fang	Normal	Physical
+Sharpen	Normal	Status
+Conversion	Normal	Status
+Tri Attack	Normal	Special
+Super Fang	Normal	Physical
+Slash	Normal	Physical
+Substitute	Normal	Status
+Struggle	Normal	Physical
+Sketch	Normal	Status
+Triple Kick	Fighting	Physical
+Thief	Dark	Physical
+Spider Web	Bug	Status
+Mind Reader	Normal	Status
+Nightmare	Ghost	Status
+Flame Wheel	Fire	Physical
+Snore	Normal	Special
+Curse	Ghost	Status
+Flail	Normal	Physical
+Conversion 2	Normal	Status
+Aeroblast	Flying	Special
+Cotton Spore	Grass	Status
+Reversal	Fighting	Physical
+Spite	Ghost	Status
+Powder Snow	Ice	Special
+Protect	Normal	Status
+Mach Punch	Fighting	Physical
+Scary Face	Normal	Status
+Feint Attack	Dark	Physical
+Sweet Kiss	Fairy	Status
+Belly Drum	Normal	Status
+Sludge Bomb	Poison	Special
+Mud-Slap	Ground	Special
+Octazooka	Water	Special
+Spikes	Ground	Status
+Zap Cannon	Electric	Special
+Foresight	Normal	Status
+Destiny Bond	Ghost	Status
+Perish Song	Normal	Status
+Icy Wind	Ice	Special
+Detect	Fighting	Status
+Bone Rush	Ground	Physical
+Lock-On	Normal	Status
+Outrage	Dragon	Physical
+Sandstorm	Rock	Status
+Giga Drain	Grass	Special
+Endure	Normal	Status
+Charm	Fairy	Status
+Rollout	Rock	Physical
+False Swipe	Normal	Physical
+Swagger	Normal	Status
+Milk Drink	Normal	Status
+Spark	Electric	Physical
+Fury Cutter	Bug	Physical
+Steel Wing	Steel	Physical
+Mean Look	Normal	Status
+Attract	Normal	Status
+Sleep Talk	Normal	Status
+Heal Bell	Normal	Status
+Return	Normal	Physical
+Present	Normal	Physical
+Frustration	Normal	Physical
+Safeguard	Normal	Status
+Pain Split	Normal	Status
+Sacred Fire	Fire	Physical
+Magnitude	Ground	Physical
+Dynamic Punch	Fighting	Physical
+Megahorn	Bug	Physical
+Dragon Breath	Dragon	Special
+Baton Pass	Normal	Status
+Encore	Normal	Status
+Pursuit	Dark	Physical
+Rapid Spin	Normal	Physical
+Sweet Scent	Normal	Status
+Iron Tail	Steel	Physical
+Metal Claw	Steel	Physical
+Vital Throw	Fighting	Physical
+Morning Sun	Normal	Status
+Synthesis	Grass	Status
+Moonlight	Fairy	Status
+Hidden Power	Normal	Special
+Cross Chop	Fighting	Physical
+Twister	Dragon	Special
+Rain Dance	Water	Status
+Sunny Day	Fire	Status
+Crunch	Dark	Physical
+Mirror Coat	Psychic	Special
+Psych Up	Normal	Status
+Extreme Speed	Normal	Physical
+Ancient Power	Rock	Special
+Shadow Ball	Ghost	Special
+Future Sight	Psychic	Special
+Rock Smash	Fighting	Physical
+Whirlpool	Water	Special
+Beat Up	Dark	Physical
+Fake Out	Normal	Physical
+Uproar	Normal	Special
+Stockpile	Normal	Status
+Spit Up	Normal	Special
+Swallow	Normal	Status
+Heat Wave	Fire	Special
+Hail	Ice	Status
+Torment	Dark	Status
+Flatter	Dark	Status
+Will-O-Wisp	Fire	Status
+Memento	Dark	Status
+Facade	Normal	Physical
+Focus Punch	Fighting	Physical
+Smelling Salts	Normal	Physical
+Follow Me	Normal	Status
+Nature Power	Normal	Status
+Charge	Electric	Status
+Taunt	Dark	Status
+Helping Hand	Normal	Status
+Trick	Psychic	Status
+Role Play	Psychic	Status
+Wish	Normal	Status
+Assist	Normal	Status
+Ingrain	Grass	Status
+Superpower	Fighting	Physical
+Magic Coat	Psychic	Status
+Recycle	Normal	Status
+Revenge	Fighting	Physical
+Brick Break	Fighting	Physical
+Yawn	Normal	Status
+Knock Off	Dark	Physical
+Endeavor	Normal	Physical
+Eruption	Fire	Special
+Skill Swap	Psychic	Status
+Imprison	Psychic	Status
+Refresh	Normal	Status
+Grudge	Ghost	Status
+Snatch	Dark	Status
+Secret Power	Normal	Physical
+Dive	Water	Physical
+Arm Thrust	Fighting	Physical
+Camouflage	Normal	Status
+Tail Glow	Bug	Status
+Luster Purge	Psychic	Special
+Mist Ball	Psychic	Special
+Feather Dance	Flying	Status
+Teeter Dance	Normal	Status
+Blaze Kick	Fire	Physical
+Mud Sport	Ground	Status
+Ice Ball	Ice	Physical
+Needle Arm	Grass	Physical
+Slack Off	Normal	Status
+Hyper Voice	Normal	Special
+Poison Fang	Poison	Physical
+Crush Claw	Normal	Physical
+Blast Burn	Fire	Special
+Hydro Cannon	Water	Special
+Meteor Mash	Steel	Physical
+Astonish	Ghost	Physical
+Weather Ball	Normal	Special
+Aromatherapy	Grass	Status
+Fake Tears	Dark	Status
+Air Cutter	Flying	Special
+Overheat	Fire	Special
+Odor Sleuth	Normal	Status
+Rock Tomb	Rock	Physical
+Silver Wind	Bug	Special
+Metal Sound	Steel	Status
+Grass Whistle	Grass	Status
+Tickle	Normal	Status
+Cosmic Power	Psychic	Status
+Water Spout	Water	Special
+Signal Beam	Bug	Special
+Shadow Punch	Ghost	Physical
+Extrasensory	Psychic	Special
+Sky Uppercut	Fighting	Physical
+Sand Tomb	Ground	Physical
+Sheer Cold	Ice	Special
+Muddy Water	Water	Special
+Bullet Seed	Grass	Physical
+Aerial Ace	Flying	Physical
+Icicle Spear	Ice	Physical
+Iron Defense	Steel	Status
+Block	Normal	Status
+Howl	Normal	Status
+Dragon Claw	Dragon	Physical
+Frenzy Plant	Grass	Special
+Bulk Up	Fighting	Status
+Bounce	Flying	Physical
+Mud Shot	Ground	Special
+Poison Tail	Poison	Physical
+Covet	Normal	Physical
+Volt Tackle	Electric	Physical
+Magical Leaf	Grass	Special
+Water Sport	Water	Status
+Calm Mind	Psychic	Status
+Leaf Blade	Grass	Physical
+Dragon Dance	Dragon	Status
+Rock Blast	Rock	Physical
+Shock Wave	Electric	Special
+Water Pulse	Water	Special
+Doom Desire	Steel	Special
+Psycho Boost	Psychic	Special
+Roost	Flying	Status
+Gravity	Psychic	Status
+Miracle Eye	Psychic	Status
+Wake-Up Slap	Fighting	Physical
+Hammer Arm	Fighting	Physical
+Gyro Ball	Steel	Physical
+Healing Wish	Psychic	Status
+Brine	Water	Special
+Natural Gift	Normal	Physical
+Feint	Normal	Physical
+Pluck	Flying	Physical
+Tailwind	Flying	Status
+Acupressure	Normal	Status
+Metal Burst	Steel	Physical
+U-turn	Bug	Physical
+Close Combat	Fighting	Physical
+Payback	Dark	Physical
+Assurance	Dark	Physical
+Embargo	Dark	Status
+Fling	Dark	Physical
+Psycho Shift	Psychic	Status
+Trump Card	Normal	Special
+Heal Block	Psychic	Status
+Wring Out	Normal	Special
+Power Trick	Psychic	Status
+Gastro Acid	Poison	Status
+Lucky Chant	Normal	Status
+Me First	Normal	Status
+Copycat	Normal	Status
+Power Swap	Psychic	Status
+Guard Swap	Psychic	Status
+Punishment	Dark	Physical
+Last Resort	Normal	Physical
+Worry Seed	Grass	Status
+Sucker Punch	Dark	Physical
+Toxic Spikes	Poison	Status
+Heart Swap	Psychic	Status
+Aqua Ring	Water	Status
+Magnet Rise	Electric	Status
+Flare Blitz	Fire	Physical
+Force Palm	Fighting	Physical
+Aura Sphere	Fighting	Special
+Rock Polish	Rock	Status
+Poison Jab	Poison	Physical
+Dark Pulse	Dark	Special
+Night Slash	Dark	Physical
+Aqua Tail	Water	Physical
+Seed Bomb	Grass	Physical
+Air Slash	Flying	Special
+X-Scissor	Bug	Physical
+Bug Buzz	Bug	Special
+Dragon Pulse	Dragon	Special
+Dragon Rush	Dragon	Physical
+Power Gem	Rock	Special
+Drain Punch	Fighting	Physical
+Vacuum Wave	Fighting	Special
+Focus Blast	Fighting	Special
+Energy Ball	Grass	Special
+Brave Bird	Flying	Physical
+Earth Power	Ground	Special
+Switcheroo	Dark	Status
+Giga Impact	Normal	Physical
+Nasty Plot	Dark	Status
+Bullet Punch	Steel	Physical
+Avalanche	Ice	Physical
+Ice Shard	Ice	Physical
+Shadow Claw	Ghost	Physical
+Thunder Fang	Electric	Physical
+Ice Fang	Ice	Physical
+Fire Fang	Fire	Physical
+Shadow Sneak	Ghost	Physical
+Mud Bomb	Ground	Special
+Psycho Cut	Psychic	Physical
+Zen Headbutt	Psychic	Physical
+Mirror Shot	Steel	Special
+Flash Cannon	Steel	Special
+Rock Climb	Normal	Physical
+Defog	Flying	Status
+Trick Room	Psychic	Status
+Draco Meteor	Dragon	Special
+Discharge	Electric	Special
+Lava Plume	Fire	Special
+Leaf Storm	Grass	Special
+Power Whip	Grass	Physical
+Rock Wrecker	Rock	Physical
+Cross Poison	Poison	Physical
+Gunk Shot	Poison	Physical
+Iron Head	Steel	Physical
+Magnet Bomb	Steel	Physical
+Stone Edge	Rock	Physical
+Captivate	Normal	Status
+Stealth Rock	Rock	Status
+Grass Knot	Grass	Special
+Chatter	Flying	Special
+Judgment	Normal	Special
+Bug Bite	Bug	Physical
+Charge Beam	Electric	Special
+Wood Hammer	Grass	Physical
+Aqua Jet	Water	Physical
+Attack Order	Bug	Physical
+Defend Order	Bug	Status
+Heal Order	Bug	Status
+Head Smash	Rock	Physical
+Double Hit	Normal	Physical
+Roar of Time	Dragon	Special
+Spacial Rend	Dragon	Special
+Lunar Dance	Psychic	Status
+Crush Grip	Normal	Physical
+Magma Storm	Fire	Special
+Dark Void	Dark	Status
+Seed Flare	Grass	Special
+Ominous Wind	Ghost	Special
+Shadow Force	Ghost	Physical
+Hone Claws	Dark	Status
+Wide Guard	Rock	Status
+Guard Split	Psychic	Status
+Power Split	Psychic	Status
+Wonder Room	Psychic	Status
+Psyshock	Psychic	Special
+Venoshock	Poison	Special
+Autotomize	Steel	Status
+Rage Powder	Bug	Status
+Telekinesis	Psychic	Status
+Magic Room	Psychic	Status
+Smack Down	Rock	Physical
+Storm Throw	Fighting	Physical
+Flame Burst	Fire	Special
+Sludge Wave	Poison	Special
+Quiver Dance	Bug	Status
+Heavy Slam	Steel	Physical
+Synchronoise	Psychic	Special
+Electro Ball	Electric	Special
+Soak	Water	Status
+Flame Charge	Fire	Physical
+Coil	Poison	Status
+Low Sweep	Fighting	Physical
+Acid Spray	Poison	Special
+Foul Play	Dark	Physical
+Simple Beam	Normal	Status
+Entrainment	Normal	Status
+After You	Normal	Status
+Round	Normal	Special
+Echoed Voice	Normal	Special
+Chip Away	Normal	Physical
+Clear Smog	Poison	Special
+Stored Power	Psychic	Special
+Quick Guard	Fighting	Status
+Ally Switch	Psychic	Status
+Scald	Water	Special
+Shell Smash	Normal	Status
+Heal Pulse	Psychic	Status
+Hex	Ghost	Special
+Sky Drop	Flying	Physical
+Shift Gear	Steel	Status
+Circle Throw	Fighting	Physical
+Incinerate	Fire	Special
+Quash	Dark	Status
+Acrobatics	Flying	Physical
+Reflect Type	Normal	Status
+Retaliate	Normal	Physical
+Final Gambit	Fighting	Special
+Bestow	Normal	Status
+Inferno	Fire	Special
+Water Pledge	Water	Special
+Fire Pledge	Fire	Special
+Grass Pledge	Grass	Special
+Volt Switch	Electric	Special
+Struggle Bug	Bug	Special
+Bulldoze	Ground	Physical
+Frost Breath	Ice	Special
+Dragon Tail	Dragon	Physical
+Work Up	Normal	Status
+Electroweb	Electric	Special
+Wild Charge	Electric	Physical
+Drill Run	Ground	Physical
+Dual Chop	Dragon	Physical
+Heart Stamp	Psychic	Physical
+Horn Leech	Grass	Physical
+Sacred Sword	Fighting	Physical
+Razor Shell	Water	Physical
+Heat Crash	Fire	Physical
+Leaf Tornado	Grass	Special
+Steamroller	Bug	Physical
+Cotton Guard	Grass	Status
+Night Daze	Dark	Special
+Psystrike	Psychic	Special
+Tail Slap	Normal	Physical
+Hurricane	Flying	Special
+Head Charge	Normal	Physical
+Gear Grind	Steel	Physical
+Searing Shot	Fire	Special
+Techno Blast	Normal	Special
+Relic Song	Normal	Special
+Secret Sword	Fighting	Special
+Glaciate	Ice	Special
+Bolt Strike	Electric	Physical
+Blue Flare	Fire	Special
+Fiery Dance	Fire	Special
+Freeze Shock	Ice	Physical
+Ice Burn	Ice	Special
+Snarl	Dark	Special
+Icicle Crash	Ice	Physical
+V-create	Fire	Physical
+Fusion Flare	Fire	Special
+Fusion Bolt	Electric	Physical
+Flying Press	Fighting	Physical
+Mat Block	Fighting	Status
+Belch	Poison	Special
+Rototiller	Ground	Status
+Sticky Web	Bug	Status
+Fell Stinger	Bug	Physical
+Phantom Force	Ghost	Physical
+Trick-or-Treat	Ghost	Status
+Noble Roar	Normal	Status
+Ion Deluge	Electric	Status
+Parabolic Charge	Electric	Special
+Forest's Curse	Grass	Status
+Petal Blizzard	Grass	Physical
+Freeze-Dry	Ice	Special
+Disarming Voice	Fairy	Special
+Parting Shot	Dark	Status
+Topsy-Turvy	Dark	Status
+Draining Kiss	Fairy	Special
+Crafty Shield	Fairy	Status
+Flower Shield	Fairy	Status
+Grassy Terrain	Grass	Status
+Misty Terrain	Fairy	Status
+Electrify	Electric	Status
+Play Rough	Fairy	Physical
+Fairy Wind	Fairy	Special
+Moonblast	Fairy	Special
+Boomburst	Normal	Special
+Fairy Lock	Fairy	Status
+King's Shield	Steel	Status
+Play Nice	Normal	Status
+Confide	Normal	Status
+Diamond Storm	Rock	Physical
+Steam Eruption	Water	Special
+Hyperspace Hole	Psychic	Special
+Water Shuriken	Water	Special
+Mystical Fire	Fire	Special
+Spiky Shield	Grass	Status
+Aromatic Mist	Fairy	Status
+Eerie Impulse	Electric	Status
+Venom Drench	Poison	Status
+Powder	Bug	Status
+Geomancy	Fairy	Status
+Magnetic Flux	Electric	Status
+Happy Hour	Normal	Status
+Electric Terrain	Electric	Status
+Dazzling Gleam	Fairy	Special
+Celebrate	Normal	Status
+Hold Hands	Normal	Status
+Baby-Doll Eyes	Fairy	Status
+Nuzzle	Electric	Physical
+Hold Back	Normal	Physical
+Infestation	Bug	Special
+Power-Up Punch	Fighting	Physical
+Oblivion Wing	Flying	Special
+Thousand Arrows	Ground	Physical
+Thousand Waves	Ground	Physical
+Land's Wrath	Ground	Physical
+Light of Ruin	Fairy	Special
+Origin Pulse	Water	Special
+Precipice Blades	Ground	Physical
+Dragon Ascent	Flying	Physical
+Hyperspace Fury	Dark	Physical
+Breakneck Blitz	Normal	Physical
+Breakneck Blitz	Normal	Special
+All-Out Pummeling	Fighting	Physical
+All-Out Pummeling	Fighting	Special
+Supersonic Skystrike	Flying	Physical
+Supersonic Skystrike	Flying	Special
+Acid Downpour	Poison	Physical
+Acid Downpour	Poison	Special
+Tectonic Rage	Ground	Physical
+Tectonic Rage	Ground	Special
+Continental Crush	Rock	Physical
+Continental Crush	Rock	Special
+Savage Spin-Out	Bug	Physical
+Savage Spin-Out	Bug	Special
+Never-Ending Nightmare	Ghost	Physical
+Never-Ending Nightmare	Ghost	Special
+Corkscrew Crash	Steel	Physical
+Corkscrew Crash	Steel	Special
+Inferno Overdrive	Fire	Physical
+Inferno Overdrive	Fire	Special
+Hydro Vortex	Water	Physical
+Hydro Vortex	Water	Special
+Bloom Doom	Grass	Physical
+Bloom Doom	Grass	Special
+Gigavolt Havoc	Electric	Physical
+Gigavolt Havoc	Electric	Special
+Shattered Psyche	Psychic	Physical
+Shattered Psyche	Psychic	Special
+Subzero Slammer	Ice	Physical
+Subzero Slammer	Ice	Special
+Devastating Drake	Dragon	Physical
+Devastating Drake	Dragon	Special
+Black Hole Eclipse	Dark	Physical
+Black Hole Eclipse	Dark	Special
+Twinkle Tackle	Fairy	Physical
+Twinkle Tackle	Fairy	Special
+Catastropika	Electric	Physical
+Shore Up	Ground	Status
+First Impression	Bug	Physical
+Baneful Bunker	Poison	Status
+Spirit Shackle	Ghost	Physical
+Darkest Lariat	Dark	Physical
+Sparkling Aria	Water	Special
+Ice Hammer	Ice	Physical
+Floral Healing	Fairy	Status
+High Horsepower	Ground	Physical
+Strength Sap	Grass	Status
+Solar Blade	Grass	Physical
+Leafage	Grass	Physical
+Spotlight	Normal	Status
+Toxic Thread	Poison	Status
+Laser Focus	Normal	Status
+Gear Up	Steel	Status
+Throat Chop	Dark	Physical
+Pollen Puff	Bug	Special
+Anchor Shot	Steel	Physical
+Psychic Terrain	Psychic	Status
+Lunge	Bug	Physical
+Fire Lash	Fire	Physical
+Power Trip	Dark	Physical
+Burn Up	Fire	Special
+Speed Swap	Psychic	Status
+Smart Strike	Steel	Physical
+Purify	Poison	Status
+Revelation Dance	Normal	Special
+Core Enforcer	Dragon	Special
+Trop Kick	Grass	Physical
+Instruct	Psychic	Status
+Beak Blast	Flying	Physical
+Clanging Scales	Dragon	Special
+Dragon Hammer	Dragon	Physical
+Brutal Swing	Dark	Physical
+Aurora Veil	Ice	Status
+Sinister Arrow Raid	Ghost	Physical
+Malicious Moonsault	Dark	Physical
+Oceanic Operetta	Water	Special
+Guardian of Alola	Fairy	Special
+Soul-Stealing 7-Star Strike	Ghost	Physical
+Stoked Sparksurfer	Electric	Special
+Pulverizing Pancake	Normal	Physical
+Extreme Evoboost	Normal	Status
+Genesis Supernova	Psychic	Special
+Shell Trap	Fire	Special
+Fleur Cannon	Fairy	Special
+Psychic Fangs	Psychic	Physical
+Stomping Tantrum	Ground	Physical
+Shadow Bone	Ghost	Physical
+Accelerock	Rock	Physical
+Liquidation	Water	Physical
+Prismatic Laser	Psychic	Special
+Spectral Thief	Ghost	Physical
+Sunsteel Strike	Steel	Physical
+Moongeist Beam	Ghost	Special
+Tearful Look	Normal	Status
+Zing Zap	Electric	Physical
+Nature's Madness	Fairy	Special
+Multi-Attack	Normal	Physical
+10,000,000 Volt Thunderbolt	Electric	Special
